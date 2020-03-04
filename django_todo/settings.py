@@ -26,7 +26,7 @@ SECRET_KEY = 'ip12$=cq%gaf0a_y!%)s&+57o!=xz@(^ex_pa*js$(2bj$f65y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-todo-ci-experiment.herokuapp.com']
 
 
 # Application definition
